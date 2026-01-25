@@ -76,3 +76,8 @@ We aim to ensure humans remain human in the presence of powerful AI.
 
 CC BY-NC 4.0  
 Commercial use requires explicit permission.
+
+## Where to start
+
+- Read `/docs/architecture.md` for the reference architecture
+- Read `/failure-modes/` for autonomy drift patterns
