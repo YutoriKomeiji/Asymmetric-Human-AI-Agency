@@ -75,22 +75,4 @@ We aim to ensure humans remain human in the presence of powerful AI.
 ## License
 
 CC BY-NC 4.0  
-Commercial use requires explicit permission.Design principles for asymmetric agency systems
-Reference architectures (Safety-LCA, responsibility pathways)
-Failure mode taxonomy (autonomy drift, authority leakage)
-Practical design patterns for real systems
-Documentation-first safety engineering approach
-This is not a model, SDK, or product.
-It is a design substrate for safe human–AI systems.
-Who this is for
-AI system architects
-Safety & governance engineers
-Product designers of AI-enabled workflows
-Researchers in alignment, HCI, and socio-technical systems
-Organizations deploying AI in high-stakes contexts
-Philosophy
-We do not aim to make AI more human.
-We aim to make humans remain human in the presence of powerful AI.
-License
-This work is licensed under CC BY-NC 4.0.
 Commercial use requires explicit permission.
