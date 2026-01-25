@@ -1,31 +1,81 @@
-# Asymmetric-Human-AI-Agency
+# Asymmetric Human–AI Agency
+
 A design principle and reference architecture for AI systems where decision authority is intentionally asymmetric: humans retain final agency, AI remains a bounded, non-sovereign actor. Focused on safety, responsibility pathways, and prevention of silent autonomy drift.
-What this is
-Asymmetric Human–AI Agency (AHAA) is a design principle and reference architecture for AI systems in which decision authority is intentionally asymmetric:
-humans retain final agency, while AI remains a bounded, non-sovereign actor.
-This repository defines how to prevent silent autonomy drift while still enabling powerful AI-assisted work, by structurally separating capability from authority.
-Why this exists
-Most AI failures are not caused by model errors alone, but by agency misalignment:
-AI outputs are treated as decisions, not suggestions
-Responsibility pathways are implicit or missing
-Autonomy increases silently through workflow design
-Humans lose effective veto power without noticing
-This project addresses that failure mode at the architectural level, not through policy or ethics statements.
-Core principle
-Capability may be delegated.
-Authority must not be.
-AI can propose, simulate, summarize, generate, and optimize —
-but only humans can commit, decide, and bear responsibility.
-This asymmetry is not a limitation.
-It is a safety mechanism.
-What “Asymmetric” means here
-Humans are sovereign agents
-AI is a bounded tool with no final authority
-Responsibility flows only through human decision points
-All irreversible actions require explicit human confirmation
-AI outputs are never treated as facts by default
-What this repository contains
-Design principles for asymmetric agency systems
+
+---
+
+## Overview
+
+Asymmetric Human–AI Agency (AHAA) defines a structural rule for human–AI systems:
+
+> **Capability may be delegated. Authority must not be.**
+
+AI can generate, simulate, summarize, and recommend.  
+Only humans can decide, commit, and take responsibility.
+
+This asymmetry is not a limitation — it is a safety mechanism.
+
+---
+
+## Why this matters
+
+Most AI incidents are not caused by model failure, but by **agency leakage**:
+
+- AI outputs treated as decisions
+- Responsibility paths left implicit
+- Human veto power eroded by workflow design
+- Autonomy increases without explicit intent
+
+AHAA addresses this at the **architecture level**, not through policy, ethics, or training alone.
+
+---
+
+## Core principles
+
+- Humans are sovereign agents
+- AI is a bounded tool, not an actor
+- All irreversible actions require explicit human confirmation
+- Responsibility flows only through human decision points
+- AI outputs are never facts by default
+
+---
+
+## What this repository is
+
+This repository documents:
+
+- Design principles for asymmetric agency systems
+- Reference architectures (e.g. Safety-LCA)
+- Responsibility pathway design
+- Failure mode taxonomy (autonomy drift, authority leakage)
+- Design patterns for safe AI-enabled workflows
+
+This is **not** a model, SDK, or product.  
+It is a **design substrate**.
+
+---
+
+## Intended audience
+
+- AI system architects
+- Safety & governance engineers
+- Product designers of AI workflows
+- Alignment & HCI researchers
+- Organizations deploying AI in high-stakes environments
+
+---
+
+## Philosophy
+
+We do not aim to make AI more human.  
+We aim to ensure humans remain human in the presence of powerful AI.
+
+---
+
+## License
+
+CC BY-NC 4.0  
+Commercial use requires explicit permission.Design principles for asymmetric agency systems
 Reference architectures (Safety-LCA, responsibility pathways)
 Failure mode taxonomy (autonomy drift, authority leakage)
 Practical design patterns for real systems
