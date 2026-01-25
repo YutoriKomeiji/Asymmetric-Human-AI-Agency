@@ -48,15 +48,11 @@ AI may participate in reasoning, but never in responsibility.
 
 Every action in a Safety-LCA system must pass through a defined pathway:
 
-AI Output
- ↓
-Human Interpretation
- ↓ 
-Explicit Decision
- ↓ 
-Human Confirmation
- ↓ 
-Irreversible Action
+01.AI Output → 
+02.Human Interpretation → 
+03.Explicit Decision → 
+04.Human Confirmation →  
+05.Irreversible Action
 
 If any step is skipped, merged, or automated,
 the pathway is broken.
