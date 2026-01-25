@@ -81,3 +81,8 @@ Commercial use requires explicit permission.
 
 - Read `/docs/architecture.md` for the reference architecture
 - Read `/failure-modes/` for autonomy drift patterns
+
+## Status
+
+This repository is a living design document.
+Concepts and structures may evolve through use and discussion.
