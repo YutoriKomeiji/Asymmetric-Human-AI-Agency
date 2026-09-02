@@ -22,6 +22,8 @@
 - **歴史的価値:** authority、evidence、execution、external effect、recovery、Human Return、Residual Ownerといった後続概念がどこから生まれたかを追える。
 - **実行製品ではない:** runtimeやSDKとして分類すべきではないが、非実行形式だからといって内容のない思想メモとみなすのも誤り。
 - **誤分類防止:** 2026年1月の強い表現を現行方針として引用する前に、`docs/07-Current-Position-and-Lineage.md`と後続repositoryを確認する。
+- **未読参照の扱い:** URLやfile名を提示・発見しただけでは、その内容を読んだEvidenceにしない。実際に取得・読解するまで`NOT_OBSERVED`として扱う。
+- **評価規律:** Observation、Inference、Risk、Preference、Sentimentを分ける。歴史資料であることはclassification factであり、未読内容の創作や、保存文書を読まずに価値を否定する根拠にはしない。
 
 </details>
 
