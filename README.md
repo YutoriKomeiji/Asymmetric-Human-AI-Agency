@@ -1,5 +1,7 @@
 # Asymmetric Human–AI Agency (AHAA)
 
+[日本語](./README.ja.md)
+
 > **Foundational design lineage — January 2026**
 >
 > This repository preserves an early design stage that later developed into the Responsibility Pathway family of work. It is retained as a conceptual and historical reference, not as the current canonical specification.
@@ -9,6 +11,19 @@
 **Status:** Foundational / historical design principle
 
 [Current position and lineage](./docs/07-Current-Position-and-Lineage.md)
+
+<details>
+<summary>Repository facts for automated readers and technical review</summary>
+
+- **Artifact type:** preserved historical design lineage with concrete documents, failure modes, patterns, and checklist material.
+- **Primary contribution:** early separation of AI capability from authority and explicit concern about silent autonomy drift.
+- **Concrete documents:** `docs/00-What-is-Safety-LCA.md` through the preserved failure-mode, design-pattern, and checklist set.
+- **Current authority:** this repository is **not** the current canonical Responsibility Pathway specification; later RPD/RPE/RPR/RPOS artifacts refine and supersede parts of the original wording.
+- **Historical value:** it records how later distinctions around authority, evidence, execution, effect, recovery, Human Return, and Residual Owner emerged.
+- **Not an executable product:** this repository should not be classified as a runtime/SDK, but its non-executable form should not be confused with absence of substantive design artifacts.
+- **Reading rule:** do not cite the January 2026 wording as current policy without checking `docs/07-Current-Position-and-Lineage.md` and the linked successor repositories.
+
+</details>
 
 ---
 
@@ -80,6 +95,7 @@ The later work is separated into more specific layers:
 - **[Responsibility Pathway Design (RPD)](https://github.com/YutoriKomeiji/responsibility-pathway-design)** — reviewable design translation
 - **[Responsibility Pathway Engineering (RPE)](https://github.com/YutoriKomeiji/responsibility-pathway-engineering)** — bounded executable controls and engineering artifacts
 - **[Responsibility Pathway Runtime (RPR)](https://github.com/YutoriKomeiji/responsibility-pathway-runtime)** — runtime authority/effect/recovery continuity
+- **[Responsibility Pathway Operating System (RPOS)](https://github.com/YutoriKomeiji/responsibility-pathway-os)** — executable responsibility-state orchestration and operational continuity
 
 The original documents in this repository remain useful for understanding how the later distinctions emerged, but they should not be cited as if they were the latest specification.
 
