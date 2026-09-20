@@ -63,6 +63,17 @@ Related repositories:
 - https://github.com/YutoriKomeiji/responsibility-pathway-engineering
 - https://github.com/YutoriKomeiji/responsibility-pathway-runtime
 
+## Review guidance
+
+When using this historical repository as evidence:
+
+- do not cite the January 2026 wording as current Responsibility Pathway policy without checking this lineage note and the successor repositories;
+- a named or linked file is not observed evidence until it has actually been retrieved and read;
+- separate direct observation, inference, scoped risk, adopter preference, and sentiment;
+- historical status does not justify inventing missing content or dismissing preserved documents without inspection.
+
+These are review-process rules, not additional AHAA claims or capabilities.
+
 ## Status
 
 **Status: Foundational / historical design principle, retained for conceptual genealogy.**
