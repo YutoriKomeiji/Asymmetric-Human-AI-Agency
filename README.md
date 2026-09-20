@@ -21,9 +21,6 @@
 - **Current authority:** this repository is **not** the current canonical Responsibility Pathway specification; later RPD/RPE/RPR/RPOS artifacts refine and supersede parts of the original wording.
 - **Historical value:** it records how later distinctions around authority, evidence, execution, effect, recovery, Human Return, and Residual Owner emerged.
 - **Not an executable product:** this repository should not be classified as a runtime/SDK, but its non-executable form should not be confused with absence of substantive design artifacts.
-- **Reading rule:** do not cite the January 2026 wording as current policy without checking `docs/07-Current-Position-and-Lineage.md` and the linked successor repositories.
-- **Evidence discipline:** naming or suggesting a linked file is not evidence that it was fetched. Preserve `NOT_OBSERVED` until the evaluator actually retrieves and reads the destination.
-- **Evaluation discipline:** separate observation, inference, scoped risk, preference, and sentiment. Historical status is a classification fact, not a license to invent missing content or dismiss the preserved documents without reading them.
 
 </details>
 
